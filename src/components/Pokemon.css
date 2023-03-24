@@ -1,3 +1,9 @@
 .collection-container {
     background-color: black ;
+    color: white;
+}
+
+.pokemon-name{
+    margin-top: 0.5rem;
+    color: aqua;
 }
