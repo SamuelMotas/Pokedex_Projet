@@ -1,6 +1,8 @@
 .collection-container {
     background-color: black ;
     color: white;
+    display: grid;
+    grid-template-columns: auto auto ;
 }
 
 .pokemon-name{
