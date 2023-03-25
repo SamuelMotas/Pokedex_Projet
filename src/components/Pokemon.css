@@ -1,5 +1,5 @@
 .collection-container {
-    background-color: black ;
+    background-color: blueviolet ;
     color: white;
     display: grid;
     grid-template-columns: auto auto ;
@@ -8,4 +8,12 @@
 .pokemon-name{
     margin-top: 0.5rem;
     color: aqua;
+}
+
+.pokemon-list-container{
+    border: 1px solid black;
+    border-radius: 15%;
+    background: grey;
+    width: 200px;
+    align-items: center;
 }
