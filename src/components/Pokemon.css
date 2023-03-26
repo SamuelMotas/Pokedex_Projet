@@ -8,6 +8,9 @@
 .pokemon-name{
     margin-top: 0.5rem;
     color: aqua;
+    margin-bottom: 0;
+    margin-top: 0;
+    
 }
 
 .pokemon-list-container{
